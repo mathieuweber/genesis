@@ -1,0 +1,1 @@
+Sitemap: <?php __url('sitemap', array(), false); ?>

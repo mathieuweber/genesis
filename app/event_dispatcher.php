@@ -1,0 +1,1 @@
+<?phprequire_once('Gen/Controller/Event/Dispatcher.php');$e = new Gen_Controller_Event_Dispatcher();// $e->addListeners('product_created', array('activity'), array('product'));
